@@ -1,5 +1,7 @@
 # Flysystem Adapter for OneDrive
 
+#disclamire ini merupakaan package orang yang saya sesuaikan dengan php 8. kalo buat pr lama di acc jadi mendingan buat paket sendiri
+
 ## Installation
 
 ```bash
