@@ -1,12 +1,9 @@
 # Flysystem Adapter for OneDrive
 
-[![Author](https://img.shields.io/badge/author-as247-orange)](http://as247.vui360.com/)
-[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-
 ## Installation
 
 ```bash
-composer require as247/flysystem-onedrive:^1.0
+composer require lactobasilus/filesystem-onedrive-php8
 ```
 
 ## Usage
