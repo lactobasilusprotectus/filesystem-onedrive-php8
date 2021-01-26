@@ -1,0 +1,16 @@
+{
+  "license": "MIT",
+  "require": {
+    "php": ">=7.1 || ^7.4 || ^8.0",
+    "ext-json": "*",
+    "as247/flysystem-drive-support": "^1.0",
+    "microsoft/microsoft-graph": "dev-zengin/php-version"
+  },
+  "autoload": {
+    "psr-4": {
+      "As247\\Flysystem\\OneDrive\\": "src/"
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
