@@ -1,5 +1,13 @@
 {
-  "license": "MIT",
+  "name": "lactobasilus/filesystem-onedrive-php8",
+    "description": "ci4 installer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lactobasilusprotectus",
+            "email": "amru1731218@sttpln.ac.id"
+        }
+    ],
   "require": {
     "php": ">=7.1 || ^7.4 || ^8.0",
     "ext-json": "*",
